@@ -1,0 +1,198 @@
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  overflow-x: hidden;
+  
+   
+}
+header{
+    background-color: beige;
+    padding-bottom: 30px;
+}
+.g3{
+    display: flex;
+    justify-content: center;
+    gap: 600px;
+}
+.lists{
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+.head h2{
+    font-size: 27px;
+}
+.heading{
+   text-align: center;
+   margin-top: 50px;
+}
+.btn{
+    padding: 15px 23px;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-style: bold;
+    margin-top: 20px;
+}
+.head-img img{
+   width: 80%;
+   height: 85%;
+}
+.head-img{
+    display: flex;
+    justify-content: center;
+    margin: 25px 0px 25px 0px;
+}
+.images-mid{
+    padding-top: 35px;
+    display: flex;
+}
+.images{
+    display: grid;
+    grid-template-columns: repeat(2,240px);
+    column-gap: 0px;
+    padding-left: 80px;
+   
+    
+}
+.images div img{
+    width: 230px;
+    height: 200px;
+    justify-content: center;
+    
+}
+.team-1{
+    margin-right: -50px;
+}
+.images div{
+    column-gap: initial;
+}
+.quick{
+    color: gray;
+}
+.feature{
+    color: orange;
+}
+.mid-des{
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.third-div{
+    padding-left: 80px;
+    
+}
+.third-heading{
+    display: grid;
+    grid-template-columns: repeat(2,2px 350px);
+    column-gap: 5px;
+    margin-top: 80px;
+   
+  
+}
+.article{
+    background-color: whitesmoke;
+    width: 40%;
+    height: 100px;
+    border-radius: 10px;
+    padding: 4px;
+    padding-left: 10px;
+    margin-bottom: 15px;
+   
+}
+.article p{
+    font-size: 10px;
+}
+p{
+    font-size: 10px;
+}
+
+.third-sec img{
+    width: 70%;
+    height: 85%;
+    margin-top: 80px;
+    margin-bottom: 0px;
+    margin-left: 0;
+    margin-right: 100px;
+  
+  
+}
+.third-div{
+    display: grid;
+    grid-template-columns: repeat(2,800px 600px);
+    padding-right: 400px;
+   
+  
+
+} 
+.button{
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+}
+.mid-btn{
+    padding: 30px 50px;
+    color: white;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+}
+.forth-head{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.forth-btns button{
+   padding: 20px 40px;
+   margin-left: 20px;
+   border: 2px solid orange;
+
+}
+.forth-btns{
+    margin-top: 55px;
+    display: flex;
+    justify-content: center;
+}
+.fifth-div{
+    display: flex;
+    flex-direction: column;
+    
+    margin-right: 800px;
+}
+.fifth-div h2{
+  margin-left: 50px;
+}
+.sponsors{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 50px;
+    color: gray;
+    margin-left:100px;
+}
+.sponsors img{
+    width: 100px;
+    height: 40px;
+ filter: brightness(0);
+   
+}
+hr{
+  background-color: orange;
+  margin-right: 50px; 
+}
+.sixth{
+    background-color: blueviolet;
+    width: 70%;
+margin-left: 200px;
+    padding: 7px 15px 7px 15px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+
+}
+.sixth p{
+    text-align: center;
+    
+}
